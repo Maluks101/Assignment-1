@@ -10,3 +10,5 @@ The design considerations of the app are to produce a simple and easy to use app
 The use of Github 
 
 The use of Github is to upload the code and run it so it can confirm that the app runs smoothly and is fully operational. 
+
+Link to GitHub:  https://github.com/Maluks101/Assignment-1.git
