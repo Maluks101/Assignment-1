@@ -18,6 +18,8 @@ Link to GitHub:  https://github.com/Maluks101/Assignment-1.git
 ![Screenshot 2025-04-01 155132](https://github.com/user-attachments/assets/1eebe8a6-4095-41cd-b294-ac4d095c27cb)
 ![Screenshot 2025-04-01 155222](https://github.com/user-attachments/assets/77087a51-e526-445d-828a-d3449b795a4a)
 
+Video Link: https://youtu.be/Rh71pjIJq-k
+
 
 
 
